@@ -1,0 +1,16 @@
+{
+    "name": "kubeecms/forms-signature",
+    "description": "Creates a Forms signature field that allows users to sign online using a mouse or stylus.",
+    "keywords": ["kubee", "kubeecms", "forms", "post", "forms-post"],
+    "homepage": "https://github.com/kubeecms/forms-signature",
+    "authors": [
+      {
+        "name": "Kubee CMS",
+        "homepage": "https://github.com/KubeeCMS/"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=7.2"
+    }
+  }
